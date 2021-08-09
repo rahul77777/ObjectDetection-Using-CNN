@@ -14,4 +14,4 @@ Make predictions using a trained Keras model
 The dataset we will be using is the CIFAR-10 dataset, which consists of 60,000 32x32 color images in 10 classes, with 6000 images per class. There are 50000 training images and 10000 test images.
 
 ## Obtain Accuracy is 90.88%
-![Alt text](relative/path/to/accuraccy.jpg?raw=true "Accuraccy score")
+![accuraccy](https://user-images.githubusercontent.com/18098938/128742079-5aabf5f6-9df4-4327-8b72-865ec9cef118.JPG)
